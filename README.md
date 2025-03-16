@@ -1,3 +1,3 @@
-# SOFT-TKT25
+# **Ohjelmistotekniikka, harjoitustyö**
 
-Muistiinpanot ja Harjoitustyö löytyvät täältä.
+Alustava idea: _(Monivalinta)kokeiden **luontiin** ja **tekemiseen** tarkoitettu alusta_

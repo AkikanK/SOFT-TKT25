@@ -1,0 +1,1 @@
+Komentorivin käyttö, sekä versionhallinta ovat jo tuttuja.

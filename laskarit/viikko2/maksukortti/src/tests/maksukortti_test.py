@@ -59,3 +59,5 @@ class TestMaksukortti(unittest.TestCase):
         kortti.syo_maukkaasti()
 
         self.assertEqual(kortti.saldo_euroina(), 0.0)
+
+    

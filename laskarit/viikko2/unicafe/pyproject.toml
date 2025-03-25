@@ -6,6 +6,8 @@ authors = ["Kalle Ilves <kalle.ilves@helsinki.fi>"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+self = "^2020.12.3"
+shell = "^1.0.1"
 
 [tool.poetry.group.dev.dependencies]
 pytest = "^7.3.0"
